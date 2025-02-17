@@ -1,0 +1,12 @@
+
+    START
+    SET z = 23
+    SET result = 81
+    
+    WHILE z != result DO
+        z = z % 9
+        PRINT z
+    END
+    
+    STOP
+    
